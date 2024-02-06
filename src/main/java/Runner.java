@@ -15,7 +15,7 @@ public class Runner {
         scottishIslands.add("Tresco");
 
 //        1. Add "Coll" to the end of the list
-        System.out.println("******* SCOTISH ISLANDS *******");
+        System.out.println("******* SCOTTISH ISLANDS *******");
         System.out.println("-------INITIAL ARRAYLIST-------");
         System.out.println(scottishIslands);
 
